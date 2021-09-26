@@ -44,18 +44,19 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/group/gee" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/middleware/gee" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/middleware/gee" />
       <recent name="$PROJECT_DIR$/group/gee" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build example">
     <configuration name="go build example" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="MicroWebFramework" />
-      <working_directory value="$PROJECT_DIR$/group" />
+      <working_directory value="$PROJECT_DIR$/middleware" />
       <kind value="PACKAGE" />
       <package value="example" />
       <directory value="$PROJECT_DIR$" />
@@ -106,6 +107,13 @@
       <pattern value="^\QTestNestedGroup\E$" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Go Build.go build example" />
+      <item itemvalue="Go Test.TestGetRoute in gee" />
+      <item itemvalue="Go Test.TestGetRoute2 in gee" />
+      <item itemvalue="Go Test.TestGetRoutes in gee" />
+      <item itemvalue="Go Test.TestNestedGroup in gee" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build example" />
