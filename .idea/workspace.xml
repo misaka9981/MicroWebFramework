@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45333d22-3c8d-433e-8e5e-773eafe2362d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MicroWebFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MicroWebFramework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +44,18 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="go" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/group/gee" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/group/gee" />
+    </key>
   </component>
   <component name="RunManager" selected="Go Build.go build example">
     <configuration name="go build example" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="MicroWebFramework" />
-      <working_directory value="$PROJECT_DIR$/router" />
+      <working_directory value="$PROJECT_DIR$/group" />
       <kind value="PACKAGE" />
       <package value="example" />
       <directory value="$PROJECT_DIR$" />
@@ -94,24 +95,24 @@
       <pattern value="^\QTestGetRoutes\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestParsePattern in gee" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNestedGroup in gee" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="MicroWebFramework" />
-      <working_directory value="$PROJECT_DIR$/router/gee" />
+      <working_directory value="$PROJECT_DIR$/group/gee" />
       <kind value="PACKAGE" />
       <package value="gee" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
-      <pattern value="^\QTestParsePattern\E$" />
+      <pattern value="^\QTestNestedGroup\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build example" />
+        <item itemvalue="Go Test.TestNestedGroup in gee" />
         <item itemvalue="Go Test.TestGetRoutes in gee" />
         <item itemvalue="Go Test.TestGetRoute2 in gee" />
         <item itemvalue="Go Test.TestGetRoute in gee" />
-        <item itemvalue="Go Test.TestParsePattern in gee" />
       </list>
     </recent_temporary>
   </component>
