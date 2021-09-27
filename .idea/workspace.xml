@@ -44,11 +44,12 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/template/gee" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/panic-recover/gee" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/panic-recover/gee" />
       <recent name="$PROJECT_DIR$/template/gee" />
       <recent name="$PROJECT_DIR$/middleware/gee" />
       <recent name="$PROJECT_DIR$/group/gee" />
@@ -57,7 +58,7 @@
   <component name="RunManager" selected="Go Build.go build example">
     <configuration name="go build example" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="MicroWebFramework" />
-      <working_directory value="$PROJECT_DIR$/template" />
+      <working_directory value="$PROJECT_DIR$/panic-recover" />
       <kind value="PACKAGE" />
       <package value="example" />
       <directory value="$PROJECT_DIR$" />
